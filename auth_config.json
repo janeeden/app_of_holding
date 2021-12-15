@@ -1,0 +1,6 @@
+{
+  "domain": "campaigner-dev.eu.auth0.com",
+  "clientId": "gi3wt9s18jnRy5iENYqqYeKtwHDO47Lu",
+  "audience": "https://api-of-holding",
+  "useRefreshTokens": true
+}
